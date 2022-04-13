@@ -1,5 +1,5 @@
 {
-  "name": "console-feed",
+  "name": "@code-editor/console-feed",
   "version": "3.3.0",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
